@@ -1,10 +1,7 @@
-Hello Git!a=1
 Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-Hello Git!
-Hello Git!fffdfffd
 Hello Git!eeeeeeee
